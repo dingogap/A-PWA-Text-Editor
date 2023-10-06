@@ -3,10 +3,10 @@
   "scripts": {
     "dev": "webpack-dev-server",
     "build": "webpack",
-    "start": "webpack serve"
+    "start": "webpack server"
   },
-  "author": "2U",
-  "license": "UNLICENSED",
+  "author": "PM",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.15.0",
     "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
