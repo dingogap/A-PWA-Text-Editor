@@ -11,9 +11,10 @@ const path = require('path');
 
 module.exports = (env, argv) => {
 
+
   const injectManifest = new InjectManifest({
     swSrc: './src-sw.js',
-    swDest: 'src-sw.js',
+    swDest: 'service-worker.js',
     ...(argv.mode !== 'production' ? { exclude: [/./] } : {}),
   });
 

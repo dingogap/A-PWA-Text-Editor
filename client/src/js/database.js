@@ -12,7 +12,7 @@ const initdb = async () =>
     },
   });
 
-// jate: Add logic to a method that accepts some content and adds it to the database
+// Add all data to a single record, nominally called '1'
 export const putDb = async (content) => {
   console.log('PUT to the database');
   const jateDb = await openDB('jate', 1);
@@ -23,7 +23,7 @@ export const putDb = async (content) => {
   console.log('Data saved to the database', result);
 };
 
-// jate: Add logic for a method that gets all the content from the database
+// Get all data from a single record, nominally called '1'
 export const getDb = async () => {
   console.log('GET from the database');
   const jateDb = await openDB('jate', 1);
