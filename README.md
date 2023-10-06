@@ -69,5 +69,5 @@ You can see more of my work in my [Github Repository](https://github.com/dingoga
 4. [WorkBox][def3] Documentation
 
 [def1]: CHANGELOG.md
-[def2]: https://webpack.js.org/guides/progressive-web-application/
-[def3]: https://developer.chrome.com/docs/workbox/reference/workbox-webpack-plugin/
+[def2]: https://www.npmjs.com/package/webpack
+[def3]: https://developer.chrome.com/docs/workbox/modules/workbox-webpack-plugin/
