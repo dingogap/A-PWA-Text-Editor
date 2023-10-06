@@ -7,3 +7,4 @@
 5. Updated Event Listeners
 6. Updated database.js to put & get data correctly
 7. Updated ssrc-sw.js & index.js to install sw and cache data 
+8. Successfully deplyed to Heroku & tested - OK
