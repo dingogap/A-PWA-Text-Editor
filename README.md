@@ -65,28 +65,9 @@ You can see more of my work in my [Github Repository](https://github.com/dingoga
 
 1. Boot Camp Materials - Lesson Material from Weeks 1 - 19
 2. Prior Knowledge and experience
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+3. [WebPack][def2] Documentation
+4. [WorkBox][def3] Documentation
 
 [def1]: CHANGELOG.md
+[def2]: https://webpack.js.org/guides/progressive-web-application/
+[def3]: https://developer.chrome.com/docs/workbox/reference/workbox-webpack-plugin/
