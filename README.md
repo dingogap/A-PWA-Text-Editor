@@ -11,7 +11,7 @@ The PWA Text Editor is a prototype text editor that runs in a browser. As text i
 * [Description](#description)
 * [GitHub URL](#github-repo-url)
 * [Website URL on Heroku](#website-url-on-heroku)
-* [Home Page Image](#home-page-image)
+* [Screenshot](#screenshot)
 * [Installation](#installation)
 * [Usage](#usage)
 * [License](#license)
@@ -25,6 +25,9 @@ https://github.com/dingogap/A-PWA-Text-Editor
 
 ## Website URL on Heroku
 https://secure-atoll-97855-53821fb2d0fd.herokuapp.com/
+
+## Screenshot
+![Just Another Text Editor](./assets/jate.png)
 
 ## ChangeLog
 
@@ -71,3 +74,4 @@ You can see more of my work in my [Github Repository](https://github.com/dingoga
 [def1]: CHANGELOG.md
 [def2]: https://www.npmjs.com/package/webpack
 [def3]: https://developer.chrome.com/docs/workbox/modules/workbox-webpack-plugin/
+
